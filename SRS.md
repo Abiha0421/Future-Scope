@@ -16,19 +16,19 @@ Future Scope is a web-based AI career guidance system...
 - AI-Based Career Prediction
 - Career Insights & Resources
 ## 4. Tech Stack
-- 1. Backend (AI & API Development)
+- Backend (AI & API Development)
  Backend to handle AI predictions and user data processing.
 Langchain: To make accurate question according to user pre-defined question
-- 2. Frontend ( For UI )
+  - Frontend ( For UI )
   To make interactive and engaging UI
 Tailwaind CSS: TO make lightweight and Flexible frameworks
-- 3. Database
+- Database
 To store user interaction, preferences and recommendations
 PostgreSql: Best for structured career data
-- 4. Deployment
+-  Deployment
      Make sure AI models and website are accessible.
      Docker: For containerized deployments.
-- 5. Authentication and Security
+-  Authentication and Security
   To protect user data
 1) Firebase Auth: For secure authentication.
 2) JWT (JSON Web Tokens): For handling user sessions securely.
